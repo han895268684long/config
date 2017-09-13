@@ -1,0 +1,5 @@
+info:
+  profile: dev
+  from: git
+server:
+  port: 9999
